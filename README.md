@@ -22,6 +22,8 @@ Key Technologies: Python (pandas, statsmodels, sklearn, seaborn/matplotlib).
 - Paths are local — adjust for your setup.
 - Data not included (privacy) — request sample if needed.
 
-Abiral  
-Kathmandu, Nepal  
-January 2026
+## Contact
+
+Questions or suggestions? Open an issue or reach out!
+
+[Abiral Chalise](https://www.linkedin.com/in/abiral-chalise-123704330/)
